@@ -1,4 +1,5 @@
 # Redux Swapi
+SMG MVP
 
 ---
 
